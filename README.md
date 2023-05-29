@@ -27,3 +27,5 @@ Oppgaven gikk bra og jeg syntes jeg la en fin plan for å komme meg gjennom oppg
 Netlify: https://silly-meerkat-d7971b.netlify.app/
 
 Github: https://github.com/Noroff-FEU-Assignments/project-exam-1-Bilal1998a.git
+
+Figma: https://www.figma.com/file/V6BXvjTPj5q36BN4ek8g79/Exam1?type=design&node-id=0-1&t=RGiE5zCnUBPVTlWS-0

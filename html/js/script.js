@@ -28,7 +28,7 @@ function renderBlogPosts(data) {
               pariatur
             </p>
             
-            <a href="/html/blogspess.html?id=${id}" class="blogspes">MORE</a>
+            <a href="/blogspess.html?id=${id}" class="blogspes">MORE</a>
             
             
       </div>
