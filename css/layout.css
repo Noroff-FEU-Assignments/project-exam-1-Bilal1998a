@@ -25,7 +25,15 @@ nav{
 
 }
 
-
+label.logo {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 50px;
+    position: relative;
+    margin-top: 10px;
+}
 nav ul{
     float: right;
     margin-right: 20px;
@@ -42,6 +50,18 @@ padding: 7px 13px;
 border-radius: 3px;
 }
 
+.checkbtn{
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+}
+#check{
+    display: none;
+}
 
 
   
@@ -81,8 +101,13 @@ section * {
     }
 }
 
-
-    
+@media (max-width: 850px) {
+    label.logo{
+        font-size: 18px;
+        padding-left: 50px;
+        position: relative;
+        margin-top: 22px;
+    }
     nav ul li a{
         font-size: 16px;
     }
@@ -134,7 +159,7 @@ section * {
         }
 
     }
-
+}
 
 
 

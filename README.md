@@ -23,3 +23,7 @@ Uke 5: Jeg fikk lastet opp siden min på hotjar og jeg ba mine klassekammerater,
 
 Oppsummering:
 Oppgaven gikk bra og jeg syntes jeg la en fin plan for å komme meg gjennom oppgaven. Det at jeg satt av en ekstra uke som margin viste seg å være til stor hjelp. jeg er fornøyd med innsatsen min og lærte, og fikk repetert mye av undervisningene vi har hatt til nå.
+
+Netlify: https://silly-meerkat-d7971b.netlify.app/
+
+Github: https://github.com/Noroff-FEU-Assignments/project-exam-1-Bilal1998a.git
